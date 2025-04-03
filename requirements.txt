@@ -1,0 +1,5 @@
+streamlit
+pydantic
+openai>=1.0 # Specify minimum version for current API usage
+anthropic>=0.20 # Add anthropic as an optional dependency
+python-dotenv # To manage API keys
